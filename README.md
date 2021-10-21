@@ -1,3 +1,5 @@
+#### install
+npm i
 #### develop
 npm run dev
 #### build
